@@ -31,7 +31,7 @@ const Header = () => {
         </Row>
         <Row className="align-items-center">
           <Col className="text-center">
-            <h4>TWELVE KLAUS - PMS</h4>
+            <h4>TWELVE KLAUS - PMS HK</h4>
           </Col>
         </Row>
         <div className="headerLogOut">
